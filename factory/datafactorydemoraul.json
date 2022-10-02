@@ -1,0 +1,9 @@
+{
+	"name": "datafactorydemoraul",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cb528b71-0c0a-4617-ab6d-300e1018aafe",
+		"tenantId": "f461a9ae-3d61-4161-8c1a-3f7bdc00218d"
+	}
+}
